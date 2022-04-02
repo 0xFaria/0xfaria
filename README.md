@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaria10&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfaria&theme=blue-green)
