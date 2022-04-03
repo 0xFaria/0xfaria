@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
+-->
 
 
 - 🌱 I’m currently learning ...
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfaria&theme=blue-green)
